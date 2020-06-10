@@ -1,2 +1,30 @@
-# Wizards-CharacterCounter
-This Repository is to host a character counter program that is based on LC-3 and will be collaborated on by four members total
+# Wizards' Character Counter Program - Essential Information
+
+## Project Description
+This program will display the frequency of a character in the full name that the user enters in.
+
+## Program's Purpose
+The primary objectives of this program include:
+-Counting the frequency of letters within a name that is listed.
+-Output a numerical value to represent the frequency of unique characters in the user's input of a full name.
+
+## Creator Name
+This Program has been co-developed by the following creators:
+-Lucas Wilkerson
+-Dylan Kral
+-Emmanuel Saucedo
+-Alan Tran
+
+## Version Number
+Version number 1.0.0
+
+## Date Of Creation
+This program was created on June 8th, 2020.
+-(6/8/2020)
+
+## Program Usage Instructions
+The program instructions and intentions are as followed:
+-The user will input a FULL NAME.
+-The program will then execute with said input.
+-The program will output a numarical value to represent the frequency of unique characters of the FULL NAME as inputted by the user.
+-(End of Instruction)
