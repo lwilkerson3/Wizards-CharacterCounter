@@ -38,4 +38,4 @@ The program instructions and intentions are as followed:
 
 - The program will output a numarical value to represent the frequency of unique characters of the FULL NAME as inputted by the user.
 
-- (End of Instruction)
+(End of Instruction)
