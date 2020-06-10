@@ -5,6 +5,7 @@ This program will display the frequency of a character in the full name that the
 
 ## Program's Purpose
 The primary objectives of this program include:
+
 -Counting the frequency of letters within a name that is listed.
 -Output a numerical value to represent the frequency of unique characters in the user's input of a full name.
 
