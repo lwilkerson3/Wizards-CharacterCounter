@@ -6,20 +6,20 @@ This program will display the frequency of a character in the full name that the
 ## Program's Purpose
 The primary objectives of this program include:
 
--Counting the frequency of letters within a name that is listed.
+- Counting the frequency of letters within a name that is listed.
 
--Output a numerical value to represent the frequency of unique characters in the user's input of a full name.
+- Output a numerical value to represent the frequency of unique characters in the user's input of a full name.
 
 ## Creator Name
 This Program has been co-developed by the following creators:
 
--Lucas Wilkerson
+- Lucas Wilkerson
 
--Dylan Kral
+- Dylan Kral
 
--Emmanuel Saucedo
+- Emmanuel Saucedo
 
--Alan Tran
+- Alan Tran
 
 ## Version Number
 Version number 1.0.0
@@ -32,10 +32,10 @@ This program was created on June 8th, 2020.
 ## Program Usage Instructions
 The program instructions and intentions are as followed:
 
--The user will input a FULL NAME.
+- The user will input a FULL NAME.
 
--The program will then execute with said input.
+- The program will then execute with said input.
 
--The program will output a numarical value to represent the frequency of unique characters of the FULL NAME as inputted by the user.
+- The program will output a numarical value to represent the frequency of unique characters of the FULL NAME as inputted by the user.
 
--(End of Instruction)
+- (End of Instruction)
